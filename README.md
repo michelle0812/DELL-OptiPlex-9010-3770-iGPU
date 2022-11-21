@@ -1,5 +1,5 @@
 # Successed: DELL OptiPlex 9010 Mid Tower
-<img width="450" src="https://user-images.githubusercontent.com/79300809/202950743-c2492944-2b2c-460e-a7eb-45c5733f1444.jpg"><br>
+
 <table>
   <tr>
     <td>處理器</td><td>Intel(R) Core(TM) i7-3770 Ivy Bridge</td>
@@ -20,3 +20,5 @@
     <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
   </tr>  
 </table>
+<img src="https://user-images.githubusercontent.com/79300809/202954167-b393adca-402a-45d9-94c7-4bb29a0a7600.png"><br>
+<img width="450" src="https://user-images.githubusercontent.com/79300809/202950743-c2492944-2b2c-460e-a7eb-45c5733f1444.jpg"><br>
