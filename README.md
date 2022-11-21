@@ -1,7 +1,5 @@
 # Successed: DELL OptiPlex 9010 Mid Tower
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202950743-c2492944-2b2c-460e-a7eb-45c5733f1444.jpg"><br>
-
-<img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
 <table>
   <tr>
     <td>處理器</td><td>Intel(R) Core(TM) i7-3770 Ivy Bridge</td>
