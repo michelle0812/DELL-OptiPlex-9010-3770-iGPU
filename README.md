@@ -11,7 +11,7 @@
     <td>記憶體</td><td>DDR3-1600 8GB *2</td>
   </tr>
   <tr>
-    <td>iGPU</td><td>Intel® HD Graphics 4000</td>
+    <td>iGPU</td><td>Intel® HD Graphics 4000 1536MB</td>
   </tr>
   <tr>  
     <td>固態硬碟</td><td>SanDisk SDSSDA240G</td>
