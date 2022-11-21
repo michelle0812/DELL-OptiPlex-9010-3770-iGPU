@@ -1,5 +1,4 @@
 # Successed: DELL OptiPlex 9010 Mid Tower
-![7360134721Dell-OptiPlex-9010MT_1](https://user-images.githubusercontent.com/79300809/202945247-377f00da-8c6d-4be0-a548-b967e6ae8b01.jpg)
 
 <img width="450" src="https://user-images.githubusercontent.com/79300809/202945247-377f00da-8c6d-4be0-a548-b967e6ae8b01.jpg"><br>
 
