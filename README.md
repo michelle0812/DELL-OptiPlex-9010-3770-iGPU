@@ -17,7 +17,7 @@
     <td>固態硬碟</td><td>SanDisk SDSSDA240G</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
+    <td>系統</td><td>macOS Monterey 12.6.4 + OpenCore 0.9.1</td>
   </tr>  
 </table>
 <img src="https://user-images.githubusercontent.com/79300809/202954167-b393adca-402a-45d9-94c7-4bb29a0a7600.png"><br>
